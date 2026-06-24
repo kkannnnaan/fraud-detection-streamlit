@@ -1,0 +1,4 @@
+.idea/
+AIML Dataset.csv
+__pycache__/
+*.pyc
